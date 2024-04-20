@@ -1,5 +1,5 @@
 # Ayakkabı-tercih
-Cinsiyet dağılımına göre bir günde mağazadan alınan ayakkabı marka tercihi üzerine basit  bir dashboard.
+Power BI ile Cinsiyet dağılımına göre bir günde mağazadan alınan ayakkabı marka tercihi üzerine basit  bir dashboard.
 
 ![Ekran Görüntüsü (137)](https://github.com/cerenaktas1/Ayakkab-tercih/assets/159536442/24ba64dc-68c5-47a0-a1aa-1fd087315a26)
 
